@@ -1,0 +1,28 @@
+name: Francisco
+favicon: null
+layout_spectrum: 0.6532186735421419
+typography_spectrum: 0.300296219997108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4355516657233238
+  lightness: 0.8317731705028564
+  saturation: 0.08845630381256342
+  rhythmicContrast: 0.5738051314838231
+purpose: []
